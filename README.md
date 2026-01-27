@@ -1,46 +1,94 @@
-# :wave: Say hi to Teryoworks :wave:
+# Teryoworks – Shopify Portfolio & Craft Shop
 
-[![Generic badge](https://img.shields.io/badge/course%20available%3F-yes-green.svg)](https://shields.io/)
+**Live Demo (Password-Protected):**  
+https://yourstore.myshopify.com  
+**Password:** preview 
 
-This project is created and intended to be used for the [Shopify Theme Development – Online Store 2.0 + TailwindCSS course](https://weeklyhow.com/courses/shopify-theme-development-tailwindcss)
+**Developer:** John Lester Isleta
+**Project Type:** Shopify store & portfolio showcase  
 
+---
 
-[Get the course!](https://weeklyhow.com/) | [Lessons covered](#lessons-covered) |
-[How to use](#how-to-use) | [Not a student?](#not-a-student)
+## **Project Overview**
 
-## Lessons covered
+Teryoworks is a **handmade vinyl sticker shop** built on Shopify using the **Dawn theme**.  
 
-Status | Lectures
------------- | -------------
-:heavy_check_mark: | Installing Development Tools
-:heavy_check_mark: | Navigational Bar
-:heavy_check_mark: | 404 Page
-:heavy_check_mark: | Article Page
-:heavy_check_mark: | Blog Page
-:heavy_check_mark: | Cart Page
-:heavy_check_mark: | Product Collection Page
-:heavy_check_mark: | Collections Page
-:heavy_check_mark: | Homepage (Index)
-:heavy_check_mark: | Pages (About & Contact)
-:heavy_check_mark: | Advanced Product Page
-:heavy_check_mark: | Search Page
-:heavy_check_mark: | Customer Templates
-:hourglass: | More lessons coming
+This project serves a dual purpose:  
 
-## How to use
+1. **Functional eCommerce store** for selling vinyl stickers.  
+2. **Portfolio showcase** demonstrating Shopify development skills, including **theme customization, Liquid templating, JavaScript interactivity, and responsive design**.  
 
-To use this repository for making Shopify themes, use the following command of Shopify CLI.
-```sh
-shopify theme init [ NAME OF YOUR THEME ] --clone-url https://github.com/polidario/Elizabeth_Clean
-```
+---
 
-If you wish to use this repository instead, then feel free to use the following
-```sh
-shopify theme init [ NAME OF YOUR THEME ] --clone-url https://github.com/polidario/Elizabeth
-```
+## **🌟 Key Features & Visuals**
 
-If you don't have Shopify CLI installed to your computer, navigate to the [installation page of Shopify CLI](https://shopify.dev/themes/tools/cli/installation).
+### **Homepage**
+- Custom **hero section** with banner & CTA.  
+- **About Me section** introducing the developer & shop.  
+- **Featured Products section** with hover effects.  
+- **Portfolio section** showcasing Shopify theme customizations.  
+- Fully **responsive** across devices.
 
-## Not a student
+**Screenshot / GIF Placeholder:**  
+![Homepage Hero & Featured Products](./assets/homepage.png)
 
-If you're not a student, you can still use this repository to start a new Shopify theme project. However, any issues that you will encounter throughout your development will not be supported as the instructor will only answer questions through the course's QnA page.
+---
+
+### **Product Pages**
+- **Image carousel** for product images.  
+- **Quantity counter** for product orders.  
+- **Cart badge icon** indicating items in cart.  
+- **Fly-to-cart animation** for interactive feedback.  
+
+**Screenshot / GIF Placeholder:**  
+![Product Page Interactive Features](./assets/product-page.gif)
+
+---
+
+### **Collection Pages**
+- Custom layout for sticker categories (Anime, Cute, Custom Designs).  
+- Hover effects on product cards.  
+- Dynamic content rendering using Liquid loops.  
+
+**Screenshot / GIF Placeholder:**  
+![Collection Page](./assets/collection-page.png)
+
+---
+
+### **Custom Sections**
+- **Newsletter signup** with custom styling.  
+- **Featured Projects / Portfolio section** showing custom theme work.  
+
+**Screenshot / GIF Placeholder:**  
+![Portfolio Section](./assets/portfolio-section.png)
+
+---
+
+### **Footer & Navigation**
+- Custom footer with social links (GitHub/LinkedIn).  
+- Fully **responsive navigation menu**.
+
+**Screenshot / GIF Placeholder:**  
+![Footer & Navigation](./assets/footer.png)
+
+---
+
+### **Portfolio Page**
+- Dedicated page documenting theme customizations.  
+- Screenshots or GIFs showing:
+  - Homepage sections
+  - Product page features
+  - Collection page customizations
+- Includes **description of skills used** for each feature.  
+
+**Screenshot / GIF Placeholder:**  
+![Portfolio Page](./assets/portfolio-page.png)
+
+---
+
+## **💻 Skills Demonstrated**
+- **Shopify Theme Customization:** Dawn theme, OS 2.0  
+- **Liquid Templating:** Objects, loops, filters, custom sections/blocks  
+- **JavaScript Interactivity:** Fly-to-cart animation, quantity counter, hover effects  
+- **CSS / Responsive Design:** Flexbox, Grid, mobile-first layouts, animations  
+- **Portfolio & Documentation:** GitHub project documentation, screenshots, page walkthrough  
