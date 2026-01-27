@@ -1,7 +1,7 @@
 # Teryoworks – Shopify Portfolio & Craft Shop
 
 **Live Demo (Password-Protected):**  
-https://yourstore.myshopify.com  
+https://teryoworks.myshopify.com
 **Password:** preview 
 
 **Developer:** John Lester Isleta
