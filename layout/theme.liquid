@@ -19,7 +19,11 @@
 </head>
 <body>
 
-  {% section 'header' %}
+<header class="sticky top-0 z-50 bg-white shadow-sm">
+{% section 'header' %}
+</header>
+
+  {% render 'fly-to-cart' %}
 
   <main role="main">
     {{ content_for_layout }}
